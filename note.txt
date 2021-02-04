@@ -1,0 +1,51 @@
+Application Flow
+-----------------
+
+- Main Functions
+  - User
+  - Order
+  - Item (books)
+    - categories, authors
+  - Shipping
+  
+
+  - Buyer
+    - Search (name, author, category)
+    - Order (address)
+
+
+  - Book Shop
+    - Item (category, author)
+    - Order (date)
+
+
+Database Structure
+-----------------
+- books
+- authors
+- geners
+- shippings
+- languages
+- township
+- orders
+- orderdetails
+
+
+
+- Ecommerce Application Flow
+  - Item Manage
+  - Order Manage
+  - User Manage
+
+
+
+
+- Construction site management
+  - Item Management
+  - Site
+  - Assign
+  - Bring
+
+  - Report
+    - Site (amount, complete %)
+    - 
